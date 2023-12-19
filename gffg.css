@@ -15,7 +15,7 @@ body{
     background-color: white;
     overflow: scroll;
     width: 100%;
-    max-width: 100px;
+    max-width: 50px;
     border-radius: 20px;
     margin-top: 20px;
     scroll-snap-type: y mandatory;
@@ -73,7 +73,7 @@ body{
 .footer{
     display: flex;
     position: relative;
-    bottom: 130px;
+    bottom: 100px;
     margin-left: 20px;
 }
 @keyframes rotate {
@@ -103,7 +103,7 @@ body{
 .img-marq{
     display: flex;
     align-items: center;
-    width: 390px;
+    width: 100px;
 }
 .img-marq img{
     width: 35px;
