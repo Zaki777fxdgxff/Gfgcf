@@ -4,7 +4,7 @@
 }
 body{
     background-color: black;
-    color:white;
+    color:black;
     height: 100vh;
     display: grid;
     place-items: center;
@@ -12,7 +12,7 @@ body{
 .app-vedio{
     position: relative;
     height: 600px;
-    background-color: white;
+    background-color: black;
     overflow: scroll;
     width: 100%;
     max-width: 350px;
@@ -32,7 +32,7 @@ body{
     position: relative;
     height: 100%;
     width: 100%;
-    background-color: white;
+    background-color: black;
     scroll-snap-align: start;
 }
 /*تضمين الفيديو*/
